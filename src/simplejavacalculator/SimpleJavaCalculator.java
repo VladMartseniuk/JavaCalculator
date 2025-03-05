@@ -1,5 +1,5 @@
 /**
- * @name        Simple Java Calculator 
+ * @name        Simple Java Calculator
  * @package     ph.calculator
  * @file        Main.java
  * @author      SORIA Pierre-Henry
